@@ -6,7 +6,7 @@ mapbox-earcut
 matplotlib
 moderngl
 moderngl_window
-numpy
+numpy<=1.24
 Pillow
 pydub
 pygments
